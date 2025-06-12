@@ -1,33 +1,22 @@
 # Hi there! 👋
 
-I'm a passionate developer focusing on backend development and AI. I enjoy implementing efficient algorithms, designing scalable architectures, and diving into challenging problems that push my understanding of technology.
+I'm a passionate developer in backend & AI, focused on efficient algorithms, scalable architectures, and tackling challenging tech problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- C / C++
-- Python
-- JavaScript
-- Java
+### Languages
+- C/C++, Python, JavaScript, Java
 
 ### Databases
-- MySQL
-- MongoDB
+- MySQL, MongoDB
 
-### Frameworks & Libraries
-- React
-- Angular
-- Node.js
-- FastAPI
+### Frameworks
+- React, Angular, Node.js, FastAPI
 
-### Other Skills & Interests
-- Cryptography
-- Computer Networking
-- Statistics
-- AWS (Amazon Web Services)
-- Docker
+### Skills
+- Cryptography, Networking, Statistics, AWS, Docker
 
 ---
 
