@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate developer in backend & AI, focused on efficient algorithms, scalable architectures, and tackling challenging tech problems.
+I'm an enthusiastic developer specializing in backend systems and artificial intelligence, focused on efficient algorithms, scalable architectures, and tackling challenging tech problems.
 
 ---
 
